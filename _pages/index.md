@@ -28,7 +28,7 @@ permalink: /
 ## 四国中央市の観光スポット
 
 翠波峰
-！![1299785f62b9dc-5586-41a1-90dc-ca56530fa6d4_m](https://user-images.githubusercontent.com/104198390/164739744-dce08bef-de9e-4dfd-a83f-e428b545b0bd.jpeg)
+![1299785f62b9dc-5586-41a1-90dc-ca56530fa6d4_m](https://user-images.githubusercontent.com/104198390/164739744-dce08bef-de9e-4dfd-a83f-e428b545b0bd.jpeg)
 
 ## おわりに
 
