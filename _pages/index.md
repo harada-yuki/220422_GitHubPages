@@ -13,7 +13,7 @@ permalink: /
 ---
 # 四国中央市　　
 
-！[image](https://shikokuchuoiju.jp/app/wp-content/uploads/2017/02/Still0310_00070.jpg)
+(![Still0310_00070](https://user-images.githubusercontent.com/104198390/164694275-f522e21b-8f05-4e9e-9b6b-473ff60ae50c.jpeg)
 ## 見出し2
 # 四国中央
 ### 見出し3
