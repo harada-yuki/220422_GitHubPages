@@ -1,6 +1,6 @@
 default:
   name: "γυκι"
-  avatar: "/assets/images/icons/default.png"
+  avatar: "PhotosDesktop.jpg"
   bio: "Twitterを徘徊してる犬"
   links:
     - label: "Twitter"
