@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "四国中央市非公式ホームページ"
 author: default
 permalink: /
 ---
