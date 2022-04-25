@@ -42,7 +42,7 @@ permalink: /
 
 町の南西には雄大な山林があり、生物学界に注目されています。  
 その付近にはあの越笑（えつえむ）大学がもとありキャンパスを構えており、精力的に研究をされています！  
-![mainimgs_campus-2019](https://user-images.githubusercontent.com/104198390/164761526-92a2808a-587d-4b53-905f-4eae03108593.jpeg). 
+![mainimgs_campus-2019](https://user-images.githubusercontent.com/104198390/164761526-92a2808a-587d-4b53-905f-4eae03108593.jpeg) 
 この越笑大学は毎年２００人以上のYouTuberを輩出する有名大学です！  
 
 # 筆者の生まれた場所！
@@ -80,7 +80,7 @@ permalink: /
 
 2018年 もとあり町町長就任  
 
-### 副市長：サトシ（さとし）  
+### 副町長：サトシ（さとし）  
 ![satoshi](https://user-images.githubusercontent.com/104198390/164763917-d8b6acbd-032f-41a6-bba8-ed9d4d03fbd5.jpeg)  
 
 ご挨拶  
@@ -89,7 +89,7 @@ permalink: /
 
 私は大学でキクラゲの研究をしていたのですが、気づけばこの町の副町長になっていました。 
 
-### 副市長：星崎愛翔（ほしざきらぶは）  
+### 副町長：星崎愛翔（ほしざきらぶは）  
 ![k-hoshizaki](https://user-images.githubusercontent.com/104198390/164765900-84b29cc0-f666-4f5b-a238-cbf750811170.jpeg)  
 
 ご挨拶  
